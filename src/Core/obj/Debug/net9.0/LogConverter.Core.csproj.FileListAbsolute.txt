@@ -1,0 +1,11 @@
+C:\Users\vinig\LogConverter\src\Core\bin\Debug\net9.0\LogConverter.Core.deps.json
+C:\Users\vinig\LogConverter\src\Core\bin\Debug\net9.0\LogConverter.Core.dll
+C:\Users\vinig\LogConverter\src\Core\bin\Debug\net9.0\LogConverter.Core.pdb
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\LogConverter.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\LogConverter.Core.AssemblyInfoInputs.cache
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\LogConverter.Core.AssemblyInfo.cs
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\LogConverter.Core.csproj.CoreCompileInputs.cache
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\LogConverter.Core.dll
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\refint\LogConverter.Core.dll
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\LogConverter.Core.pdb
+C:\Users\vinig\LogConverter\src\Core\obj\Debug\net9.0\ref\LogConverter.Core.dll

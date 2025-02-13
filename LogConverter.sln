@@ -1,0 +1,8 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogConverter.Core", "src\Core\LogConverter.Core.csproj", "{A1B2C3D4-E5F6-4789-G1H2-I3J4K5L6M7N8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogConverter.Console", "src\Console\LogConverter.Console.csproj", "{B2C3D4E5-F6G7-4891-H2I3-J4K5L6M7N8O9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogConverter.Core.Tests", "tests\Core.Tests\LogConverter.Core.Tests.csproj", "{C3D4E5F6-G7H8-4912-I3J4-K5L6M7N8O9P0}"
+EndProject
